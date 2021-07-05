@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Anıl. 👋
 
 <!--
 **aniladar/aniladar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Anıl Adar received the B.Sc. degree (Hons.) from the Department of Electrical and Electronics Engineering, Yaşar University, Izmir, Turkey. He is currently pursuing the master’s degree in information and communication technologies for Internet and multimedia in the Department of Information Engineering, University of Padova, Padua, Italy. During his senior year, he worked as a Research Scholar in the Scientific Research Project “Development of Channel Models and Techniques for Visible Light Communication” at Yaşar University.
+
+His graduation project “Video Transmission via Visible Light Communication,” was supported by TÜBİTAK (Scientific and Technological Research Council of Turkey) under the 2209-B Industry Focused Undergraduate Thesis Support Program. His team’s low-cost VLC system design was published at the 2019 Conference on Innovations in Intelligent Systems and Applications. His research interests are machine learning and its applications to multimedia technologies.
