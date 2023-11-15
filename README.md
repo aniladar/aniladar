@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I received the B.Sc. degree (Hons.) from the Department of Electrical and Electronics Engineering, Yaşar University, Izmir, Turkey. I received Master’s degree in Information and Communication Technologies (ICT) for the Internet and multimedia in the Department of Information Engineering, University of Padova, Padua, Italy. During my senior year, I worked as a Research Scholar in the Scientific Research Project “Development of Channel Models and Techniques for Visible Light Communication” at Yaşar University.
+I received the B.Sc. degree (Hons.) from the Department of Electrical and Electronics Engineering, Yaşar University, Izmir, Turkey. During my senior year, I worked as a Research Scholar in the Scientific Research Project “Development of Channel Models and Techniques for Visible Light Communication” at Yaşar University. I received Master’s degree in Information and Communication Technologies (ICT) for the Internet and multimedia in the Department of Information Engineering, University of Padova, Padua, Italy.
 
-My graduation project “Video Transmission via Visible Light Communication,” was supported by TÜBİTAK (Scientific and Technological Research Council of Turkey) under the 2209-B Industry Focused Undergraduate Thesis Support Program. My team’s low-cost VLC system design was published at the 2019 Conference on Innovations in Intelligent Systems and Applications. My research interests are machine learning and its applications to multimedia technologies.
+My Bachelor's graduation project “Video Transmission via Visible Light Communication,” was supported by TÜBİTAK (Scientific and Technological Research Council of Turkey) under the 2209-B Industry Focused Undergraduate Thesis Support Program. My team’s low-cost VLC system design was published at the 2019 Conference on Innovations in Intelligent Systems and Applications. My Master's degree final project is on Detection and Classification with YOLO v4 for Surveillance Cameras.
+
+My research interests are machine learning and its applications to multimedia technologies.
 
 - 🔭 I’m currently working on Visual Inspection algorithms using Deep Learning for production lines. 
 -  📫 Reach me on LinkedIn:  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniladar/)
