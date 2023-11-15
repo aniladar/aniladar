@@ -19,10 +19,13 @@ I received the B.Sc. degree (Hons.) from the Department of Electrical and Electr
 
 My graduation project “Video Transmission via Visible Light Communication,” was supported by TÜBİTAK (Scientific and Technological Research Council of Turkey) under the 2209-B Industry Focused Undergraduate Thesis Support Program. My team’s low-cost VLC system design was published at the 2019 Conference on Innovations in Intelligent Systems and Applications. My research interests are machine learning and its applications to multimedia technologies.
 
-- 🔭 I’m currently working on Intruder Detection and Classification with YOLO v4 for Surveillance Cameras on i.MX6d embedded board
+- 🔭 I’m currently working on Visual Inspection algorithms using Deep Learning for production lines. 
 -  📫 Reach me on LinkedIn:  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniladar/)
 
 ## Recent Projects
+📹**Intruder Detection and Classification with YOLO v4 for Surveillance Cameras on i.MX6d embedded board**
+* 8 classes of detection on real-time video stream.
+
 🎙 **Speech Recognition: Keyword Spotting through voice** ([🔗Link](https://github.com/aniladar/KeywordSpotting) | [📄Paper](https://github.com/aniladar/KeywordSpotting/blob/main/Paper.pdf))
 * Detection of wake-up words with different neural networks.
 * Accuracy of 95.32% achieved with Att-RNN architecture
